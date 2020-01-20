@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+/Users/feihe/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-176292999.index
-3447348943.index
-2154190504.index
-1599712361.index
-2752591454.index
-3339695631.index
-572007593.index
